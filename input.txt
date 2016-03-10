@@ -1,0 +1,21 @@
+S1, C2, R2
+
+DONALD GERALD ROBERT
+
+Population: 200
+Generations: 100
+Crossover: 80%
+Mutation: 20%
+
+Evaluation: 2
+Nextgen: 2
+
+Experiment: 0
+
+
+
+
+(S1) Roleta (S2) Torneio de tamanho 3 (S3) Torneio de tamanho 2
+(C1) Crossover cíclico (C2) Crossover PMX.
+(R1) Reinserção ordenada (melhores entre pais e filhos) (R2) Reinserção
+pura com elitismo de 20%
